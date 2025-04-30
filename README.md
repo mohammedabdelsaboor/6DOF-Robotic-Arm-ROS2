@@ -1,6 +1,4 @@
 # 6DOF-Robotic-Arm-ROS2 
-# 6-DOF Robotic Arm using Arduino, NEMA 17, and DRV Drivers
-
 This repository contains the code, design files, and documentation for a **6-DOF robotic arm** controlled by an **Arduino** microcontroller. The arm utilizes **NEMA 17 stepper motors** and **DRV stepper motor drivers** for precise control and movement.
 
 ## Project Overview
